@@ -31,5 +31,7 @@ add_numbers <- function(a, b){
   a+b
 }
 
+result <- add_numbers(1150, 60)
+result
 
   
